@@ -1,0 +1,117 @@
+Ulysse Naomie : std OC : 01 80 88 80 30 
+
+
+
+voir ce cours et en tirer des liste etc pour remplir l'objectif stratégique
+https://openclassrooms.com/fr/courses/3848166-faire-l-inventaire-de-ses-competences
+
+Workplace : Sylvain Chazette -- mdp std 
+Groupes fb concernant OC :
+https://openclassrooms.facebook.com/
+
+Annonces sur fb concernant OC
+https://openclassrooms.facebook.com/groups/145735825904409/permalink/476030092874979/
+https://openclassrooms.facebook.com/groups/108172763225648/
+
+fb perso 'poubelle' : Taz France -- mdp std
+https://www.facebook.com/bookmarks/lists/
+
+
+
+=========================================================================================
+Revoir la fiche de la formation : bienvenu aux étudiants.
+Drive à mettre en place ..
+
+planning ajout :
+danse : Mardi 		18h15 - 19h45 juvisy
+danse : Mercredi 	14h00 - 15h30 athis
+danse : Vendredi	18h30 - 20h00 athis
+
+
+=========================================================================================
+aides au parcours :
+
+https://docs.google.com/document/d/1bv-tqMvKi3k3Ex1hHMvoOr37VvLTeJ0P_hT_ILCOFNQ/edit#heading=h.34j5g0t3t459
+
+
+
+
+
+
+=========================================================================================
+A voir / à faire mais en dehors du parcours :
+
+https://openclassrooms.com/fr/courses/2581701-simulez-des-architectures-reseaux-avec-gns3/4823146-installez-configurez-et-exploitez-un-logiciel-d-emulation-systemes-et-reseaux
+
+https://openclassrooms.com/fr/courses/3631731-introduction-aux-conteneurs/3631738-introduction
+
+https://openclassrooms.com/fr/courses/2257706-presentation-du-concept-dannuaire-ldap
+
+https://openclassrooms.com/fr/courses/2818931-programmez-en-oriente-objet-avec-c
+
+https://openclassrooms.com/fr/courses/1526901-apprenez-a-developper-en-c
+
+https://openclassrooms.com/fr/courses/218202-apprenez-a-programmer-en-c-sur-net
+
+https://openclassrooms.com/fr/courses/2974101-creez-votre-premiere-application-connectee-en-c-net
+
+https://openclassrooms.com/fr/courses/2654601-java-et-la-programmation-reseau/2668340-quelques-notions-de-reseaux
+
+https://openclassrooms.com/fr/courses/4975451-demarrez-votre-projet-avec-java/4975458-decouvrez-lunivers-java
+
+https://openclassrooms.com/forum/sujet/nom-de-domaine-local-intranet-22147
+
+https://openclassrooms.com/forum/sujet/active-directory-formation-87711
+
+https://openclassrooms.com/fr/paths/68-developpeur-dapplication-python
+
+
+
+
+
+
+
+
+
+
+
+=========================================================================================
+
+https://openclassrooms.com/fr/courses/3914221-bienvenue-parmi-les-etudiants
+
+https://openclassrooms.com/fr/dashboard
+
+
+
+
+https://openclassrooms.com/fr/courses/4517166-developpez-votre-premiere-application-android
+
+
+
+=================================================================================================================================================
+Projet Git - GitHub
+
+Modèle centralisé : un serveur central contrôle toute la base de code du logiciel. 
+    Exemples de logiciels de versioning utilisant un modèle centralisé : SVN, CVS.
+
+Modèle distribué : toutes les machines ont accès à la base de code, pas besoin de passer par un serveur central. 
+    Exemples de logiciels de versioning utilisant un modèle distribué : Git, Mercurial, Bazaar.
+
+Le modèle distribué présente plusieurs avantages :
+	Moins de risques de perdre son code puisqu'il est accessible par plusieurs sources.
+    On peut travailler plus rapidement et sans être connecté à Internet puisqu'il n'y a pas besoin de se connecter à un serveur central.
+
+En plus des avantages du modèle distribué, Git a un autre atout : une grande communauté ! Cela facilite la collaboration et les échanges fructueux entre développeurs
+
+
+Installer Git : 
+https://gitforwindows.org/
+télécharger le fichier.
+
+
+
+
+
+
+
+
